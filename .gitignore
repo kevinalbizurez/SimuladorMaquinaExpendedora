@@ -1,0 +1,30 @@
+# Compilados
+*.class
+bin/
+out/
+build/
+dist/
+target/
+
+# NetBeans
+nbproject/private/
+nbbuild/
+nbdist/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
