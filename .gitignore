@@ -32,3 +32,6 @@ sources.txt
 Thumbs.db
 desktop.ini
 ~$*
+
+# JDK descargado por la extension de Oracle
+oracleJdk-*/
